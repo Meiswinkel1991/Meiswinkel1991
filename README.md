@@ -1,9 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Meiswinkel1991&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise) <br/>
-🌱 I’m learning **TypeScript & UX design** <br/>
+🌱 I’m learning **Smart Contract Security** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
-💬 Ask me about **Solidtiy, Hardhat & JS ** <br/>
+💬 Ask me about **Solidtiy, Hardhat & JS** <br/>
 
 
 <h3>
@@ -51,7 +51,7 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=Meiswinkel1991&show_icons=true&theme=onedark&hide_border=true" width = 400>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Meiswinkel1991&theme=dark&hide_border=true"  width = 400>
   </div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Meiswinkel1991&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="fredericbui" width = 400 /> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Meiswinkel1991&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Meiswinkel1991" width = 400 /> 
   
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
