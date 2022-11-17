@@ -10,20 +10,7 @@
 <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+web3+projects+!" alt="Typing SVG" /></a>
 </h3>
-
-<details> 
-    <summary>💻 Algorythm solver </summary>
-    </br>
-    <a href="https://www.codewars.com/users/fredericBui">
-        <img src="https://www.codewars.com/users/fredericBui/badges/small">
-    </a>
-    <p>
-    </br>
-    <a href="https://www.codingame.com/profile/31cdb618bb23de640e3be7ac090bc9735571815">
-        <img src="https://programisto.fr/wp-content/uploads/2022/04/Entrai%CC%82nement-gratuit-Codingame-Logo-Programisto.png" width="150"> <b>Level 4</b>
-    </a>
-</details>
-    
+   
 ### 👨‍💻 Languages, frameworks, libraries & tools
 
 <p>
@@ -60,7 +47,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Meiswinkel1991&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Meiswinkel1991&bg_color=685A3B&color=BABBBD&line=000000&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
