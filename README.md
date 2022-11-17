@@ -3,7 +3,6 @@
 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise) <br/>
 🌱 I’m learning **TypeScript & UX design** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
-👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/) <br/>
 💬 Ask me about **Solidtiy, Hardhat & JS ** <br/>
 
 
