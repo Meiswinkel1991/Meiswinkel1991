@@ -1,7 +1,7 @@
 <img src="/github-header-image.png" />
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Meiswinkel1991&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Meiswinkel1991&label=Profile%20views&color=0e75b6&style=flat" alt="meiswinkel1991" /> </p>
 
-🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise) <br/>
+🔭 I’m currently working on [an non-profit-project](https://github.com/Meiswinkel1991/defi-seedfinder) <br/>
 🌱 I’m learning **Smart Contract Security** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
 💬 Ask me about **Solidtiy, Hardhat & JS** <br/>
@@ -47,7 +47,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Meiswinkel1991&bg_color=685A3B&color=BABBBD&line=000000&point=FFFFFF&hide_border=true" /></a>
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
