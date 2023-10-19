@@ -1,7 +1,7 @@
 <img src="/github-header-image.png" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Meiswinkel1991&label=Profile%20views&color=0e75b6&style=flat" alt="meiswinkel1991" /> </p>
 
-🔭 I’m currently working on [an non-profit-project](https://github.com/Meiswinkel1991/defi-seedfinder) <br/>
+🔭 I’m currently working on [an account-abstraction-project](https://github.com/daocean-labs/octo-defi-js) <br/>
 🌱 I’m learning **Smart Contract Security** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
 💬 Ask me about **Solidtiy, Hardhat & JS** <br/>
